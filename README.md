@@ -3,8 +3,8 @@
 Code for Tracked Ultrasound Auto-calibration used in the following article:
 
 "Phantomless Auto-Calibration and Online Calibration Assessment for a Tracked Freehand 2D Ultrasound Probe"
-Matthew Toews, William M. Wells III
-IEEE Transactions on Medical Imaging 2017
+Matthew Toews, William M. Wells III,
+IEEE Transactions on Medical Imaging, 2017
 
 Copyright (c) 2017, Matthew Toews
 All rights reserved.
